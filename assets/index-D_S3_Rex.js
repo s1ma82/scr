@@ -1,0 +1,1 @@
+import{j as _}from"./index-Bizc0lNa.js";const r="_btn_qwko9_1",a="_orange_qwko9_15",c="_green_qwko9_22",w="_white_qwko9_29",e={btn:r,orange:a,green:c,white:w},i=({children:o,className:s,color:t,...n})=>_.jsx("button",{className:`${e.btn} ${t?e[t]:""} ${s}`,...n,children:n.value||o});export{i as B};

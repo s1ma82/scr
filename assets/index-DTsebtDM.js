@@ -1,1 +1,0 @@
-import{U as r,V as c,W as a,X as m}from"./index-Mn7pVCiM.js";function s(e,t,n){return a.fromSchema(t).serializeFragment(e.content,{document:m()}).render()}function u(e,t){const n=r(t),o=c.fromJSON(n,e);return s(o,n)}export{u as g};
