@@ -1,1 +1,0 @@
-import{x as r,N as c,D as a,y as m}from"./index-DgYU8TOn.js";function s(e,t,n){return a.fromSchema(t).serializeFragment(e.content,{document:m()}).render()}function u(e,t){const n=r(t),o=c.fromJSON(n,e);return s(o,n)}export{u as g};
